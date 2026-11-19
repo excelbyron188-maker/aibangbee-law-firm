@@ -1,0 +1,10 @@
+node_modules
+.env
+.env.*
+!.env.example
+data/*.tmp
+public/assets/uploads
+server copy.js
+.DS_Store
+Thumbs.db
+README.md

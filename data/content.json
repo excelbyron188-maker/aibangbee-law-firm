@@ -1,0 +1,38 @@
+{
+  "cases": [],
+  "attorneys": [],
+  "news": [
+    {
+      "id": "insight-accident",
+      "title": "What to Do After a Car Accident",
+      "category": "Personal Injury",
+      "date": "2026-11-13",
+      "image": "/assets/personal-injury.jpg",
+      "description": "A collision can leave you shaken and unsure what to do next. Prioritise safety, seek medical attention, report the incident where required, document the scene and exchange details. Keep medical reports, repair estimates and receipts, and avoid signing a settlement or admitting liability before you understand the consequences. A lawyer can help you preserve evidence, assess potential claims and navigate discussions with insurers. This guide is general information; the right steps depend on the circumstances and applicable Nigerian law.",
+      "published": true
+    },
+    {
+      "id": "insight-rights",
+      "title": "Understanding Your Rights in Criminal Defence",
+      "category": "Criminal Defence",
+      "date": "2026-11-13",
+      "image": "/assets/criminal-defense.jpg",
+      "description": "Knowing your rights can make a critical difference when you are questioned, arrested or charged. You are entitled to fair treatment and due process, and should seek legal advice promptly. Do not ignore court documents or deadlines, and avoid discussing the details of a case publicly or signing statements you do not understand. A defence lawyer can explain the process, review the evidence, advise on available options and represent your interests at each stage. This overview is educational, not a substitute for advice on a particular case.",
+      "published": true
+    },
+    {
+      "id": "insight-home",
+      "title": "A Guide to Buying Your First Home",
+      "category": "Real Estate",
+      "date": "2026-11-13",
+      "image": "/assets/real-estate.jpg",
+      "description": "Buying your first home involves more than agreeing a price. Confirm the seller’s identity and authority, investigate the property’s title and ownership history, check for encumbrances or disputes, and verify planning and land-use requirements before paying a substantial deposit. Put the agreed terms in writing and have the transaction documents reviewed by an independent property lawyer. Proper due diligence can help you avoid costly surprises and make an informed purchase. Requirements vary by location and property type.",
+      "published": true
+    }
+  ],
+  "faqs": [],
+  "consultations": [],
+  "practiceImages": {},
+  "siteImages": {},
+  "heroImage": ""
+}
